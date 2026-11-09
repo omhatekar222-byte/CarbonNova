@@ -1,4 +1,5 @@
 # CarbonNova
+<<<<<<< HEAD
 
 CarbonNova is a React/Vite frontend and Express API prototype for agricultural parcel mapping, field-sensor monitoring, deterministic carbon-indicator calculations, Nemotron-powered evidence interpretation, and auditable exports. It is intended as a decision-support and project-preparation tool; it does **not** certify or issue carbon credits.
 
@@ -113,3 +114,6 @@ Parcel/assessment endpoints use the prototype `user-1` owner convention; it is n
 ## License and submission
 
 No project license file is currently present. Confirm the desired open-source license and add its complete approved text before distributing this software. A public demo deployment is not configured or claimed. Before hackathon submission, check the official current submission rules and required NVIDIA/Nebius account/model constraints, add a valid Nebius key in the server environment, make a live inference call from the application, and record the observed provider/model response.
+=======
+CarbonNova — AI-Powered Carbon Intelligence for a Greener Future.
+>>>>>>> origin/main
